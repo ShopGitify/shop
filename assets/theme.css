@@ -673,7 +673,7 @@ textarea {
     clear: both; }
   .small--show {
     display: block !important; }
-  .main {
+  .main ul li a {
     color: red;
   }
   .small--hide {
