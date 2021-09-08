@@ -673,6 +673,9 @@ textarea {
     clear: both; }
   .small--show {
     display: block !important; }
+  .mine {
+    color: red;
+  }
   .small--hide {
     display: none !important; }
   .small--text-left {
